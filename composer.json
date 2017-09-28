@@ -1,0 +1,14 @@
+{
+	"name": "/guid",
+	"description": "GUID Generator",
+	"type": "craft-plugin",
+	"authors": [
+		{
+			"name": "Everything is Fun",
+			"homepage": "http://www.everythingisfun.eu"
+		}
+	],
+	"require": {
+		"composer/installers": "~1.0"
+	}
+}
